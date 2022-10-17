@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Rohitha2000
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Spring boot and DSA
+- 🌱 I’m currently learning Spring boot
 - 💞️ I’m looking to collaborate on web development and spring boot
 - 📫 How to reach me rohitha187gourabathuni@gmail.com
 
