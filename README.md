@@ -1,9 +1,9 @@
 <h1> Hi, I'm Rohitha Gourabathuni</h1>
 
 - 👋 Hi, I’m @Rohitha2000
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Spring boot
-- 💞️ I’m looking to collaborate on web development and spring boot
+- 👀 I’m interested in Java and angular
+- 🌱 I’m currently learning frontend
+- 💞️ I’m looking to collaborate on web development(angular and spring boot)
 - 📫 How to reach me rohitha187gourabathuni@gmail.com
 
 <!---
