@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Rohitha2000
 - 👀 I’m interested in Java and angular
-- 🌱 I’m currently learning frontend
+- 🌱 I’m currently learning backend
 - 💞️ I’m looking to collaborate on web development(angular and spring boot)
 - 📫 How to reach me rohitha187gourabathuni@gmail.com
 
