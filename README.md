@@ -4,6 +4,7 @@
 
 ⚡ Frontend expertise: Angular • Jasmine/Karma • RxJS • NgRx • Syncfusion Charts
 🔗 APIs: REST • GraphQL
+
 🏗️ Focus: scalable UI architecture, performance, and complex business workflows
 
 🌱 Also experienced in full-stack development using Angular + Java (Spring Boot)
