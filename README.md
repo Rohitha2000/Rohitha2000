@@ -1,10 +1,11 @@
 <h1> Hi, I'm Rohitha Gourabathuni</h1>
 
-- 👋 Hi, I’m @Rohitha2000
-- 👀 I’m interested in Java and angular
-- 🌱 I’m currently learning backend
-- 💞️ I’m looking to collaborate on web development(angular and spring boot)
-- 📫 How to reach me rohitha187gourabathuni@gmail.com
+Angular Developer with 4+ years of experience building enterprise-grade, data-heavy web applications.
+Strong expertise in Angular, RxJS, NgRx, REST & GraphQL APIs.
+Experience working on scalable UI architecture and complex business workflows.
+
+Open to frontend-heavy and full-stack (Angular + Java/Spring Boot) roles.
+Reach me: rohitha187gourabathuni@gmail.com
 
 <!---
 Rohitha2000/Rohitha2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
