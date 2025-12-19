@@ -2,7 +2,7 @@
 
 👩‍💻 Angular Developer with 4+ years of experience building enterprise-grade, data-heavy web applications
 
-⚡ Frontend expertise: Angular • Jasmine/Karma • RxJS • NgRx • Syncfusion Charts
+⚡ Frontend expertise: Angular • Jasmine/Karma • RxJS • NgRx • Syncfusion Charts 
 🔗 APIs: REST • GraphQL
 
 🏗️ Focus: scalable UI architecture, performance, and complex business workflows
