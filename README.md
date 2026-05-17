@@ -12,7 +12,7 @@
 
 🚀 Open to frontend-heavy and full-stack opportunities
 
-📩 Reach me at: rohitha187gourabathuni@gmail.com
+📩 Reach me at: rohithagourabathuni@gmail.com
 
 🔗 LinkedIn: <a href="https://www.linkedin.com/in/rohitha-gourabathuni-47573b161/">Rohitha Gourabathuni</a>
 
